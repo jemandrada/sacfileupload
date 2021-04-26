@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-sap-sac-excel",
-      "url": "http://localhost/SAC/sacexcel/excel.js",
+      "url": "https://github.com/jemandrada/sacfileupload/blob/e0d2b82f74448b379daadd7954bfd8ffc6211fcf/excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-sap-sac-excel-aps",
-      "url": "http://localhost/SAC/sacexcel/aps_excel.js",
+      "url": "https://github.com/jemandrada/sacfileupload/blob/e0d2b82f74448b379daadd7954bfd8ffc6211fcf/aps_excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
